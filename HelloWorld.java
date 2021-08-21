@@ -17,6 +17,6 @@ public class HelloWorld
 
     public void printANumber(int num)
     {
-        System.out.println(num);
+        System.out.println(num + ": Is a number!");
     }
 }

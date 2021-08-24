@@ -6,7 +6,7 @@ public class reverseString {
         // constructing a reverseString object so we can access its methods
         reverseString rs = new reverseString();
         // printing the result of the reverseMyString method
-        System.out.println(rs.reverseMyString("Hello"));
+        System.out.println(rs.reverseMyString("Ashley Moyers"));
     }
 
     // reverseMyString method that is within the reverseString method class
